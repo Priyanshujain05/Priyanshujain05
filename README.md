@@ -4,7 +4,7 @@
 [![](https://cdn.iconscout.com/icon/free/png-64/linkedin-189-721962.png)](https://linkedin.com/in/priyanshuj05)
 [![](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png)](https://www.instagram.com/priyanshujain._/)
 [![](https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png)](https://leetcode.com/priyanshuj05/)
-[![](https://cdn.iconscout.com/icon/free/png-64/online-portfolio-1956220-1650473.png)](https://)
+[![](https://cdn.iconscout.com/icon/free/png-64/online-portfolio-1956220-1650473.png)](https://priyanshujain05.github.io/priyanshujain.dev/)
 
 </span>
 <br/>
